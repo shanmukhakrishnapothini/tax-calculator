@@ -55,7 +55,7 @@
             //DOM(document object model)//
 
 const abc=document.getElementById('abc')
-abc.innerText="Welcome to salary calculator"
+abc.innerText="Welcome to Tax calculator"
 const def=document.getElementById('def')
 def.innerText="Enter"
 function shanmukha(){
